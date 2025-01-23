@@ -82,15 +82,6 @@ else:
 kembalian = jumlah_uang - total_pembelian
 
 # Menampilkan hasil
-#print("\nPesanan Anda :")
-#for item, jumlah in pesanan_makanan + pesanan_minuman:
- #   print(f"- {jumlah} {item}")
-#print("\nNama Pemesan :", nama_pemesan)
-#print("Total Pembelian :", total_pembelian)
-#print("\nJumlah Uang Yang Diberikan : ", jumlah_uang)
-#print("Uang Kembalian : ", kembalian)
-
-# Menampilkan hasil
 now = datetime.datetime.now()
 print("\n|----------------------------------------------|")
 print("|            RESTAURANT BAKAR GULING           |")
